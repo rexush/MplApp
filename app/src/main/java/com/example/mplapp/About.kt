@@ -3,6 +3,7 @@ package com.example.mplapp
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
+@Suppress("DEPRECATION")
 class About: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
