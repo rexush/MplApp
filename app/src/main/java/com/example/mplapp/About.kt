@@ -10,7 +10,7 @@ class About: AppCompatActivity() {
         setContentView(R.layout.activity_about)
 
         val actionBar = supportActionBar
-        actionBar!!.title = "About You "
+        actionBar!!.title = "About"
         actionBar.setDisplayHomeAsUpEnabled(true)
     }
 
