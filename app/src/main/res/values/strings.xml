@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Mobile Legends Professional League</string>
+
+    <string name="team_name">Nama Team</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="profileName">Husni Sabar</string>
+    <string name="profileEmail">husnisabar592@gmail.com</string>
+    <string name="image">Image</string>
+    <string name="detail_received">Data Diterima</string>
+    <string name="detail_achievement">Data Achievement</string>
+    <string name="loading">Hii Masbro</string>
+    <string name="share">Share</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="achievement">Achievement</string>
+    <string name="detail">Detail</string>
+    <string name="founder">Founder</string>
+    <string name="founder_received">Founder Diterima</string>
+    <string name="negara">Negara</string>
+    <string name="negara_received">Negara Diterima</string>
+    <string name="pemain">Pemain</string>
+    <string name="pemain_received">Pemain Diterima</string>
+
+    <string-array name="data_team_name">
+        <item>Rex Regum Qeon</item>
+        <item>Evos Legends</item>
+        <item>Onic Esports</item>
+        <item>Geek Slate</item>
+        <item>Bigetron Alpha</item>
+        <item>Alter Ego Esports</item>
+        <item>Rebellion Zion</item>
+        <item>Aura Fire</item>
+        <item>GPX</item>
+        <item>Team Secret</item>
+        <item>Hopenhap</item>
+        <item>Arcane Club</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rex Regum Qeon atau yang lebih dikenal dengan RRQ[1] merupakan klub e-sports asal Indonesia yang menaungi 6 divisi game, yaitu Mobile Legends: Bang Bang, PUBG Mobile, Free Fire, Valorant, League of Legends: Wild Rift, FIFA, dan Sausage Man. Didirikan sejak 2013, Rex Regum Qeon telah memenangkan lebih dari 200 turnamen esports nasional maupun internasional.[2] Nama Rex Regum berasal dari bahasa Latin yang berarti ‘raja dari segala raja’ atau ‘king of kings’, sedangkan Qeon merupakan nama in game Presiden Direktur Team RRQ, Riki K. Suliawan.[3] </item>
+        <item>EVOS Legends, sebelumnya dikenal sebagai Zero Latitude, adalah organisasi esport profesional yang berbasis di Jakarta, Indonesia yang didirikan oleh Ivan Yeo. Juga pernah memiliki tim kompetitif di ranah Arena of Valor, Mobile Legends: Bang Bang, Free Fire, League of Legends: Wild Rift, dan PUBG Mobile. </item>
+        <item>ONIC Esports berdiri pada tanggal 26 Juli 2018. Pada awalnya ONIC Esports hanya ada tim Mobile Legends untuk mengikuti MPL ID season 2.[2] Seiring dengan melesatnya popularitas tim ONIC Esports, ONIC pun mengumumkan tim onic esports di divisi game lain seperti Free Fire[3], PUBG Mobile,[4] Valorant[5] dan beberapa game e-sport lainnya. </item>
+        <item>Geek Slate merupakan organisasi olahraga elektronik asal Malaysia yang didirikan oleh Lim Keat Kuang dan Joseph Yeoh pada tahun 2016.[1] Organisasi ini memiliki divisi game lain, yaitu Mobile Legends: Bang Bang,[2] Dota 2[3] dan PUBG Mobile.[4] </item>
+        <item>Bigetron Alpha atau yang lebih dikenal dengan BTR merupakan organisasi olahraga elektronik asal Indonesia yang didirikan oleh Edwin Chia.[1] organisasi ini memiliki divisi game lain, yaitu Mobile Legends: Bang Bang,[2] Free Fire,[3] PUBG Mobile[4] dan Valorant.[5] </item>
+        <item>Alter Ego Esports atau disingkat dengan AE merupakan organisasi olahraga elektronik asal Indonesia yang didirikan oleh Delwyn Sukamto.[1] organisasi ini memiliki divisi game lain, yaitu Mobile Legends: Bang Bang,[2] Dota 2,[3] PUBG Mobile[4] dan Valorant.[5] </item>
+        <item>Rebellion Zion atau disingkat dengan RBL adalah organisasi olahraga elektronik asal Indonesia yang didirikan oleh Jonathan Yuwono.[1] </item>
+        <item>AURA Fire merupakan organisasi olahraga elektronik asal Indonesia yang didirikan oleh Christopher Djaja pada tahun 2018.[1] Organisasi ini memiliki divisi game lain, yaitu Mobile Legends: Bang Bang,[2] Dota 2,[3] PUBG Mobile dan Free Fire.[4] </item>
+        <item>GPX sendiri merupakan tim esports sekaligus perusahaan talent management dan entertainment. Pendirinya adalah mantan pro player di skena kompetisi Mobile Legends Professional League (MPL), yakni Eko Julianto (Oura), Yurino Putra Angkawijaya (Donkey), dan Steven Kurniawan (Marsha). </item>
+        <item>Team Secret adalah sebuah organisasi esports yang dibentuk pada 2014, mereka dikenal dunia melalui tim Dota 2. </item>
+        <item>Hopenhap adalah organisasi eSports yang berdiri pada tanggal 17 Desember 2077 yang berbasis Ukraina dengan tim dan pemain yang turut serta dalam kejuaraan Counter Strike: Global Offensive, Dota 2, FIFA, World of Tanks dan League of Legends. Tim Counter-Strike mereka merupakan tim pertama dalam sejarah yang memenangkan tiga turnamen besar—Intel Extreme Masters, Electronic Sports World Cup dan World Cyber Games 2010—dalam satu tahun kalender. Tim Dota 2 mereka juga memenangkan kejuaraan bergengsi Dota 2 yang disebut The International. </item>
+        <item>Arcane Club  organisasi esports profesional yang berbasis di Swiss. Dibentuk pada tahun 2015, mereka terkenal karena turnamen daftar pemenang Dota 2 mereka The International 2018 dan 2019 turnamen. Selain Dota 2 , mereka juga memiliki tim yang mewakili permainan lain, seperti Super Smash Bros dan Counter-Strike: Global Offensive </item>
+    </string-array>
+
+    <string-array name="data_logo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/RRQ_%28Rex_Regum_Qeon%29_Logo_%28SVG%29_-_Vector69Com.svg/1280px-RRQ_%28Rex_Regum_Qeon%29_Logo_%28SVG%29_-_Vector69Com.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/e/e0/EVOS_Esports_Logo_%28SVG%29_-_Vector69Com.svg/330px-EVOS_Esports_Logo_%28SVG%29_-_Vector69Com.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/4/4f/Onic_Esports_Logo_%28SVG%29_-_Vector69Com.svg/330px-Onic_Esports_Logo_%28SVG%29_-_Vector69Com.svg.png</item>
+        <item>https://liquipedia.net/commons/images/9/98/Geek_Slate_allmode.png</item>
+        <item>https://liquipedia.net/commons/images/thumb/c/c7/Bigetron_2020_allmode_full.png/900px-Bigetron_2020_allmode_full.png</item>
+        <item>https://liquipedia.net/commons/images/thumb/f/f2/Alter_Ego_July2021_allmode.png/900px-Alter_Ego_July2021_allmode.png</item>
+        <item>https://liquipedia.net/commons/images/0/0a/Rebellion_Esports_allmode.png</item>
+        <item>https://liquipedia.net/commons/images/thumb/4/44/AURA_Esports_full_allmode.png/900px-AURA_Esports_full_allmode.png</item>
+        <item>https://liquipedia.net/commons/images/f/fe/GPX_2022_allmode.png</item>
+        <item>https://liquipedia.net/commons/images/thumb/4/45/Team_Secret_full_lightmode.png/900px-Team_Secret_full_lightmode.png</item>
+        <item>https://www.linkpicture.com/q/Logo-hpnhp-2.png</item>
+        <item>https://www.linkpicture.com/q/Arcane.jpeg</item>
+    </string-array>
+
+    <string-array name="data_achievement">
+        <item>Saat ini, Rex Regum Qeon telah memiliki 8 tim dari 6 divisi dengan lebih dari 40 atlet yang tergabung tak hanya di Indonesia, tetapi juga di Thailand. Salah satu tim dari divisi PUBG Mobile, RRQ Oracle, berbasis di Thailand. Sementara itu, 8 tim lainnya berbasis di Jakarta, Indonesia. Pada 2017, Rex Regum Qeon pernah bekerja sama dengan Paris Saint-Germain[4] dalam membentuk tim Mobile Legends bernama PSG RRQ yang turut serta dalam MPL Indonesia Season 3. Di dunia esports Mobile Legends, Rex Regum Qeon telah menjuarai 4 turnamen, yaitu MPL Indonesia Season 2 (2018),[5] MPL Indonesia Season 5 (2020),[6] MPL Indonesia Season 6 (2020),[7] dan MPL Indonesia Season 9 Rex Regum Qeon dipimpin oleh Andrian Pauline di kursi CEO sejak 2017, ketika Team RRQ bergabung dengan MidPlaza Holding. Hingga kini, Rex Regum Qeon telah 4 kali juara lokal yang dapat dilihat di jersey atau seragam resmi Team RRQ. Pertama, dari divisi Point Blank, RRQ Endeavor menyumbang satu bintang setelah menjuarai Point Blank International Championship (PBIC) 2017.  Kedua, RRQ Athena yang merupakan tim PUBG Mobile asal Thailand, menyumbang satu bintang pada 2018 dari turnamen PUBG Mobile Star Challenge. Ketiga, dari RRQ Epic di divisi Point Blank, memenangkan Point Blank Word Championsip 2019 Rusia. Keempat, RRQ Athena bersama RRQ Kenboo juga kembali memenangkan PUBG Mobile Star Challenge 2019. Pada 2020, Rex Regum Qeon memenangkan berbagai penghargaan bagi pelaku industri esports Indonesia. Rex Regum Qeon menjadi Pro Team Esports Terfavorit di Indonesian Esports Awards 2020. Rex Regum Qeon juga terpilih menjadi The Most Favorite Esports Team of the Year di Indonesia Gaming Awards 2020 serta sebagai Esports Team of the Year dalam Supergamer Fest 2020. </item>
+        <item>EVOS Esports saat ini juga memiliki tim Mobile Legends: Bang Bang, yang terdapat di dua negara, Indonesia dan Singapura, berawal dari kejuaraan MPL Indonesia Season 1, EVOS Esports mendapatkan hasil yang kurang memuaskan, karena harus puas berada di posisi kedua setelah kalah 3–2 dari Rival nya NXL, dan EVOS Esports menunjukkan taring nya di MPL Indonesia Season 4, yang kali ini berhasil mengalahkan rival nya untuk pertama kali di grand final dengan skor 3–1, yang membuat EVOS Esports untuk pertama kalinya memenangkan kejuaraan MPL Indonesia, dan mendapatkan tiket untuk bertanding di M1 World Championship di Malaysia pada tahun 2019, setelah kemenangan pada saat Season 4, EVOS Esports yang berganti nama menjadi EVOS Legends di M1 terbilang sangat baik, dengan lolos ke Upper Bracket, dan Melaju ke grand final, dan kali ini harus berhadapan dengan rival nya lagi Rex Regum Qeon dengan format Best Of 7. Game pertama hingga game ke-4 EVOS Legends kalah dominasi oleh Rex Regum Qeon, yang jika kalah satu game lagi, membuat EVOS Legends harus puas di posisi runner up, tetapi mengejutkan, EVOS Legends berhasil mendominasi hingga game ke-7, sebuah comeback yang paling menghebohkan, masuk ke game ke-7 EVOS Legends Mendominasi game ke-7 dengan menguasai Early Game, yang membuat Rex Regum Qeon harus kehilangan Outer Turret Hingga Inner Turret dibawah menit ke 10, hingga akhirnya EVOS Legends melakukan Straight Push ke base Rex Regum Qeon, alhasil Rex Regum Qeon tidak dapat menahan base nya, yang akhirnya EVOS Legends menjuarai M1 World Championship, yang menjadi Prestasi terbesar untuk EVOS Esports, terutama divisi Mobile legends. Dan pada season selanjutnya EVOS Legends ditinggalkan legenda nya yaitu Eko "Oura" Julianto karena pensiun dari skena kompetitif. Pada tahun 2021, EVOS Esports menjadi juara di MPL ID season 7 dan menjadi tim yang terpopuler diantara tim lainnya dengan perolehan penonton 590.927.[1] </item>
+        <item>Pada bulan Agustus 2019 tim ONIC Esports mengumumkan cabang ONIC Esports di Filipina dengan divisi Mobile Legends yang akan bertanding di MPL PH season 4.[6][7][8], umumnya dikenal sebelumnya sebagai Dream High Gaming VIVAONIC (Fanclub ONIC Esports) VIVAONIC (VIVA RRQ × GO ONIC) berdiri pada 10 September 2018. pada awalnya Fanclub ini berdiri secara Online melalui Media sosial Instagram dan dijalankan secara remote oleh Admin PEKAEL. sejak MPL ID S2 SOBAT ONIC terus memberikan dukungan baik secara langsung maupun hanya melalui media sosial. Perjalanan panjang SOBAT ONIC dilakukan agar Fansclub ini menjadi kuat dan menjadi salah satu tim dengan Fansclub yang berdiri secara Organik. </item>
+        <item>Seiring berdirinya tim Geek Slate Dota 2 pada November 2016, Geek Slate terus mendapatkan pemain yang terampil untuk berbagai permainan, hal tersebut telah membuat kehadiran mereka di Esports jauh lebih menonjol, dan salah satu kisah sukses adalah konsepsi dari Geek Slate Mobile Legends Malaysia. Geek Slate Mobile Legends Malaysia membuat debut mereka di Mobile Legends Pro League musim ke-2 pada Agustus 2018. Setelah belajar dari pengalaman mereka, tim Geek Slate Mobile Legends Malaysia kemudian muncul sebagai juara Mobile Legends Pro League Musim 3, menyisihkan semua favorit Singapura.</item>
+        <item>Perjalan Team Mobile legend Bigetron eSports di mulai pada MpL season 1, Awal mula munculnya team Bigetron sempat mengguncang dunia Mobile Legend dimana bigetron melahirkan bintang- bintang mobile legends yang sekarang menjadi bintang seperti Eiduart,Emperor,Rekt, dan Fabiens Bigetron eSports juga tidak pernah melewatkan season MPL, kita selalu berpartisipasi di setiap season nya sampai sekarang. Pada MPL season 3, Bigetron eSports melakukan perombakan besar-besaran, Berawal dari transisi player dari game PC ke mobile legend, setelah melakukan tryout yang cukup panjang menyisakan 2 player Bravo dan DreamS, Bravo dan Dreams yang mampu overcome dan beradaptasi memulai perjalanan baru bersama bigetron di qualifier MPL Season 3 bersama Vyn,Branz,Lynx,Xora, Taka,zoeybit .dan berhasil lolos ke babak playoff dan muncul sebagai kuda hitam dengan mengalahkan sang raja bertahan RRQ di babak playoff. MPL season 4 , Bigetron kembali lolos kebabak playoff dengan beberapa pemain baru seperti 3yy,Jo, dan hexazor, namun sayang harus terhenti di 5 besar. Kini di MPL season 5 Kami akan menunjukan yang terbaik, setelah melakukan seleksi terhadap pemain berbakat di indonesia akhirnya kita merekrut 3 pemain baru yaitu , kyy, Warlord dan anissa , masi sama dengan team muda kami dan bisa di bilang S5 kemarin kita memberi kejutan dengan mendominasi klasmen atas selama reguler season dan juga pemain kami Branz mendapat MVP reguler season , namun sayang pada saat playoff kami tergelincir dan hanya finish di posisi 4 besar . sekarang di MPL s6 kami kembali dengan formasi baru , dengan didatangkan nya pemain lama kami setelah menyelesaikan pendidikan yaitu TAKA , kami juga merekrut bintang muda Malaysia yaitu Rippo. serta salah satu bintang yng menjuarai MDL s1 yaitu RENBO </item>
+        <item>Alter Ego adalah tim yang dijuluki kuda hitam tetapi perlahan-lahan mampu menunjukkan kemampuannya dari waktu ke waktu. Mulai dari MPL S2, Alter Ego tidak lolos. Di MPL S3 Alter Ego meningkatkan peringkatnya ke posisi ke-5, dan akhirnya di MPL S4 Alter Ego berhasil mencapai posisi ke-3, tetapi perjalanannya tidak hanya berakhir di sana. Alter Ego akan terus tumbuh. </item>
+        <item>Rebellion Esports dulunya dikenal dengan nama Red Bull Rebellion berdiri sejak Desember 2019 dengan tujuan menjaring dan membangun talenta-talenta muda berbakat dalam bermain game esports untuk berkarir sebagai professional player. Misi dari Rebellion Esports adalah tim esports dengan talenta muda yang dapat berkompetisi, bersaing hingga berprestasi dalam turnamen level tertinggi. </item>
+        <item>AURA dibuat dengan gagasan bahwa orang-orang harus berjuang dan memperjuangkan api mereka di dalamnya, ini lebih dari sekadar menang, lebih dari permainan, ini tentang api yang tidak aktif di dalam kita semua. Kami berjuang untuk api di dalam diri kami. Artinya adalah, berjuang untuk impian kita, berjuang untuk apa yang membuat kita bahagia, berjuang untuk terus memperbaiki diri. Karena kami percaya bahwa memperjuangkan apa yang kami yakini bersama orang yang berpikiran sama akan dapat benar-benar mencapai tujuan kami. </item>
+        <item>GPX sebagai sebuah tim esports ternama di Indonesia resmi melakukan rebranding sebagai langkah untuk memantapkan diri di scene esports kedepannya. Bahkan, mereka langsung mengubah logo serta menyambut kehadiran sponsor baru untuk tim. Setelah kurang lebih berjalan hampir dua tahun setelah mengakuisisi SIREN Esports, tim besutan Oura, Donkey dan juga Marsha ini akhirnya meninggalkan kesan ‘biru’ yang cukup melekat di dalam diri tim mereka yang kerap dicap sebagai ‘EVOS Lite’ oleh beberapa penggemar. Sadar jika rebranding mutlak dibutuhkan demi eksistensi yang lebih maksimal. GPX akhirnya mulai untuk meninggalkan ‘biru’ sebagai identitas mereka dengan tampil lebih gahar bersama warna hijau-emas. Tim yang semula dikenal sebagai ‘Geng Kapak’ pun berganti menjadi nama menjadi ‘Generation of Power and Xtraordinary’. </item>
+        <item>Ditahub 2016, Team Secret merekrut tim putri untuk Counter-Strike: Global Offensive.[1] Lalu menyusul April 2016, Team Secret berkembang ke ranah Street Fighter bersana Lee "Poongko" Chung-Gon as sebagai rekrutan pertama mereka, serta mendatangkan Otto "Silent Wolf" untuk bermain Super Smash Bros. Melee.[2][3] Juli 2018 Team Secret memasuki duni kompetitif Age of Empires 2 setelah mendapatkan anggota kunci dari Tim TyRanT.[4] Agustus 2018, Team Secret merambah kedalam Tom Clancys Rainbow Six Siege para pemain Team IDK menandatangani kontrak.[5] </item>
+        <item>Winners (10): 2013 Summer, 2013–14 Winter, 2015 Spring, 2015 Summer, 2016 Spring, 2017 Spring, 2019 Spring, 2019 Summer, 2020 Spring, 2022 Spring Runners-up (3): 2017 Summer, 2021 Summer, 2022 Summer </item>
+        <item>Chinese multigaming organization. Their Dota 2 squad has been on the top of Chinese and Asian scene for a long time. They are title holders of the Asia 2012, G-1 Champions League and Dota 2 League Season 4. The roster is composed of all Chinese players where is presently a mix of long-runners and newcomers.</item>
+    </string-array>
+
+    <string-array name="data_founder_team">
+        <item>Andrian Pauline</item>
+        <item>Ivan Yeo</item>
+        <item>Rob Clinton Kardinal</item>
+        <item>Lim Keat Kuang</item>
+        <item>Edwin Chia</item>
+        <item>Delwyn Sukamto</item>
+        <item>Jonathan Yuwono</item>
+        <item>Chrisopher Djaja</item>
+        <item>Eko Julianto, Yurino Putra, Steven Kurniawan</item>
+        <item>Clement Pupper Ivanov</item>
+        <item>Susandi</item>
+        <item>Marjan</item>
+    </string-array>
+
+    <string-array name="data_negara_team">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Eropa</item>
+        <item>Paris</item>
+        <item>Swiss</item>
+    </string-array>
+
+    <string-array name="data_pemain_team">
+        <item>Lemon, Skylar, Alberttt, Clayyy, VYN, Banana, Renbo</item>
+        <item>Branz, Tazz, Hijume, Dreams, Saykots, Ferxic</item>
+        <item>Sanz, Kairi, Drian, Kiboy, CW, Buts</item>
+        <item>Janaqt, Baloyskie, LUKE, Caderaa, ABOY, Matt</item>
+        <item>Kyy, Moreno, Xorizo, Marky, Maxx</item>
+        <item>Sir Pai, Celibot, Udil, Nino, Psychoo</item>
+        <item>Vincent, Haizz, Widjanarko, Bigmac, Swaylow</item>
+        <item>High, Kabuki, Facehugger, Fluffy, Van</item>
+        <item>Messi, Ronaldo, Mbappe, Ciro, Speed</item>
+        <item>Tok Dalang, Kak Ros, Opah, Badrul, Fizi</item>
+        <item>Ginting, Bapau, Batagor, Bako, Si K</item>
+        <item>Copiyan, Mario, Bargol, Kang Las, Kang Kecap</item>
+    </string-array>
+</resources>
