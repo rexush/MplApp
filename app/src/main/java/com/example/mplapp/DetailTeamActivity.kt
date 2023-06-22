@@ -2,22 +2,21 @@ package com.example.mplapp
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 
 class DetailTeamActivity: AppCompatActivity() {
 
+    @Suppress("DEPRECATION")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
 
         val actionBar = supportActionBar
-        actionBar!!.title = "Detail"
-        actionBar!!.setDisplayHomeAsUpEnabled(true)
+        actionBar?.title = "Detail"
+        actionBar?.setDisplayHomeAsUpEnabled(true)
         val dataTeam : Team? = intent?.getParcelableExtra("key_team")
 
         val tvDetailName = findViewById<TextView>(R.id.tv_name_team)
@@ -47,6 +46,7 @@ class DetailTeamActivity: AppCompatActivity() {
             btnShare.context.startActivity(Intent.createChooser(intent, "Share via"))
         }
     }
+    @Suppress("DEPRECATION")
     override fun onSupportNavigateUp(): Boolean {
         onBackPressed()
         return true
