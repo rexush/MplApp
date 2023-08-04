@@ -1,2 +1,2 @@
 # MplApp
-Aplikasi Android Pemula
+Belajar Membuat Aplikasi Android untuk Pemula - Dicoding
